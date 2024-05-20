@@ -22,7 +22,8 @@ import { ErrorComponent } from './all-components/auth/error/error.component';
     NotfoundComponent,
     AuthentificationComponent,
     LoginComponent,
-    ErrorComponent
+    ErrorComponent,
+    
   ],
   imports: [
     BrowserModule,
